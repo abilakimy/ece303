@@ -1,2 +1,1 @@
-# ece303-arduino
-ECE303: Arduino
+This is a series of experiments I did as a college senior for the ECE Laboratory course (ECE303) at Drexel University. The goal of the experiments was to focus on component analysis and systems integration using Arduino and MATLAB.
