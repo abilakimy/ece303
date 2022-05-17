@@ -1,1 +1,1 @@
-This is a series of lab experiments I did as a college senior for the ECE Laboratory (ECE303) course at Drexel University. The goal of the experiments was to focus on component analysis and systems integration using Arduino and MATLAB.
+This is a series of lab experiments I did as a college senior for the ECE Laboratory (ECE303) course at Drexel University. The goal of the experiments was to focus on component analysis and systems integration by imitating the pedal-to-wheel subsystem of an electric car using Arduino and MATLAB.
